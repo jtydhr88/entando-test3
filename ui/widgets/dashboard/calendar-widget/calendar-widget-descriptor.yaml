@@ -1,0 +1,6 @@
+code: dw-calendar-card
+titles:
+  en: Calendar card
+  it: Calendar card
+group: free
+customUiPath: calendar-widget.ftl

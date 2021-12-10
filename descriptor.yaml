@@ -1,0 +1,8 @@
+code: calendar
+description: Calendar
+
+components:
+  widgets:
+    - ui/widgets/dashboard/calendar-widget/calendar-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
